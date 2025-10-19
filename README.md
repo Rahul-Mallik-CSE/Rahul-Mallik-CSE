@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rahul Mallik</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+- 🔭 I’m currently working on [Gavillia: E-commerce Auction website](https://gavellia-client-side.vercel.app/)
 
-- 🔭 I’m currently working on [SaaS-Based-CRM-Client](https://primeflow.vercel.app/)
+- 👯 I’m looking to collaborate on  [SaaS-Based-CRM-Client](https://primeflow.vercel.app)
 
 - 🌱 I’m currently learning **Node js, Express js, MongoDB**
 
 - 🔭 I’m currently working on [Bowler Management](https://vercel.com/mallikrahul3507mr-gmailcoms-projects/bowler-website)
-
-- 👯 I’m looking to collaborate on [News paper](https://github.com/nrbnayon/Newspaper-Frontend.git)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-rahul-mallik.vercel.app/](https://portfolio-rahul-mallik.vercel.app/)
 
