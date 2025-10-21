@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Rahul Mallik</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+![GitHub Banner](https://github.com/Rahul-Mallik-CSE/Rahul-Mallik-CSE/blob/main/Rahul_Mallik_Banner.png)
+ 
+## 💼 About Me
+ 
+I’m Rahul Mallik, a passionate and detail-oriented Front-End Developer with over 1 year of hands-on experience specializing in React.js and Next.js. I have a solid foundation in HTML5, CSS3, JavaScript, and modern front-end development practices.
+
+Currently, I’m working as a Junior Front-End Developer at Join Venture AI, where I contribute to building responsive, high-performance web applications and crafting seamless user experiences. I’m constantly exploring new technologies and best practices to write clean, efficient, and scalable code.
+
+I’m seeking opportunities in innovative and growth-focused teams where I can continue to enhance my skills, collaborate on impactful projects, and contribute to building meaningful digital products.
+
+
 - 🔭 I’m currently working on [Gavillia: E-commerce Auction website](https://gavellia-client-side.vercel.app/)
 
 - 👯 I’m looking to collaborate on  [SaaS-Based-CRM-Client](https://primeflow.vercel.app)
@@ -9,19 +19,41 @@
 - 🔭 I’m currently working on [Bowler Management](https://vercel.com/mallikrahul3507mr-gmailcoms-projects/bowler-website)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-rahul-mallik.vercel.app/](https://portfolio-rahul-mallik.vercel.app/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/rahul-mallik-7a988a1bb/](https://www.linkedin.com/in/rahul-mallik-7a988a1bb/)
-
-- 💬 Ask me about **React js**
-
-- 📫 How to reach me **mallikrahul35078mr@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+---
+ 
+### 🧠 Technologies I Work With
+ 
+|       Skills Overview        | Technologies                                                                                                                                                                                                                          |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**         | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++)                                                         |
+| **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js) ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux) |
+                                                      |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
+ 
+---
+ 
+## 📊 GitHub Stats
+ 
+| Top Languages | GitHub Streak | GitHub Stats |
+|:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Mallik-CSE&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Streak](https://streak-stats.demolab.com?user=Rahul-Mallik-CSE&theme=transparent&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul-Mallik-CSE&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) |
+ 
+---
+ 
+## 🤝 Contact with me
+ 
+Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-mallik-7a988a1bb/).  
+Let’s connect and discuss exciting frontend opportunities!
+ 
+- **Email**: [rmallik191242@bscse.uiu.ac.bd](mailto:rmallik191242@bscse.uiu.ac.bd)  
+- **WhatsApp**: +8801628438045
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-mallik-7a988a1bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-mallik-7a988a1bb/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/rahul.mallik.1272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rahul.mallik.1272/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/rahul_mallik_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rahul_mallik_08" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahul-mallik-7a988a1bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-mallik-7a988a1bb/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rahul.mallik.1272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rahul.mallik.1272/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rahul_mallik_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rahul_mallik_08" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+
+
+
