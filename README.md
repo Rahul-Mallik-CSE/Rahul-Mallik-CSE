@@ -1,5 +1,5 @@
 
-![GitHub Banner](https://github.com/Rahul-Mallik-CSE/Rahul-Mallik-CSE/blob/main/Rahul_Mallik_Banner.png)
+![GitHub Banner](https://github.com/Rahul-Mallik-CSE/Rahul-Mallik-CSE/blob/main/Rahul-Mallik-banner.png)
  
 ## 💼 About Me
  
